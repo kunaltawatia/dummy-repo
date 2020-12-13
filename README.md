@@ -1,2 +1,2 @@
 # dummy-repo
-This is a repository which accepts donation.
+This is a repository which accepts ka-ching!.
