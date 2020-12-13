@@ -7,3 +7,8 @@ This is a repository which accepts donation.
 
 # Supporters
 
+
+[![](https://img.shields.io/badge/Donate-Jupyter?style=for-the-badge)](https://razorpay.webug.space/kunaltawatia/dummy-repo)
+
+# Supporters
+
